@@ -14,3 +14,32 @@ cargo build
 ```bash
 cargo run
 ```
+
+```bash
+cargo clean
+```
+
+```bash
+cargo check
+```
+
+```bash
+cargo doc
+```
+
+## Comments
+Line comments
+```bash
+// This is a line comment
+```
+
+Multiline comments are allowed but rarely used
+```bash
+/* This is not
+very common */
+```
+
+Doc comments
+```rust
+/// This is mainly used to document funtionality
+```
