@@ -10,3 +10,7 @@ cargo new
 ```bash
 cargo build
 ```
+
+```bash
+cargo run
+```
