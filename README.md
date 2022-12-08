@@ -57,3 +57,19 @@ Heading
 ```rust
 println!("Hello World!");
 ```
+
+Formatting
+```rust
+println!("My name is {} and I'm {}", "Kevin", 29);
+```
+The exclamation mark is very important. This symbolizes that this is as macro OK.
+
+Expressions
+```rust
+println!("a + b = {}", 4+2);
+```
+
+Positional arguments
+```rust
+println!("{0} has a {2} and {0} has a {1}", "Kevin", "cat", "dog");
+```
