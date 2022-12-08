@@ -3,9 +3,10 @@
 ## Cargo
 Cargo is the package manager for Rust
 
-‘‘‘rust
+```bash
 cargo new
-‘‘‘
-‘‘‘rust
+```
+
+```bash
 cargo build
-‘‘‘
+```
