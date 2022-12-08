@@ -43,3 +43,12 @@ Doc comments
 ```rust
 /// This is mainly used to document funtionality
 ```
+```rust
+//! This is mainly used to document crates
+```
+
+## Markdown
+Heading
+```rust
+//! # Main heading
+```

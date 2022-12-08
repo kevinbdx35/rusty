@@ -1,6 +1,18 @@
 use std::io;
 
+/// Crate comment.
+/// What is this module trying to achieve.
+
 fn main() {
+
+    //! # Main function
+    //!
+    //! ```
+    //! fn main()
+    //! ```
+    //!
+    //! Reads user input and prints it to the console.
+    //! 
     let mut input :String = String::new();
 
     // Print a message to the user
