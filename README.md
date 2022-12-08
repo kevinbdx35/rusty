@@ -50,5 +50,7 @@ Doc comments
 ## Markdown
 Heading
 ```rust
-//! # Main heading
+//! # Main heading {...}
 ```
+
+## Printing Values
