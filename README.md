@@ -29,12 +29,12 @@ cargo doc
 
 ## Comments
 Line comments
-```bash
+```rust
 // This is a line comment
 ```
 
 Multiline comments are allowed but rarely used
-```bash
+```rust
 /* This is not
 very common */
 ```
