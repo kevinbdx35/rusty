@@ -73,3 +73,19 @@ Positional arguments
 ```rust
 println!("{0} has a {2} and {0} has a {1}", "Kevin", "cat", "dog");
 ```
+
+Named arguments
+```rust
+println!("{name} {surname}", surname="Brown", name="Kevin");
+```
+
+Printing traits
+```rust
+println!("Binary : {:b}, Hex : {:x}, Octal : {:o}", 5, 5, 5);
+```
+
+Debug
+```rust
+println!("Array {:?}", [1, 2, 3]);
+```
+Here, I am using the debug trade okay {:?} which will automatically convert that into a string printable
